@@ -8,10 +8,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
+    "ejs": "^3.1.10",
     "express": "^5.1.0",
     "mongoose": "^8.15.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FAVTTTTTTTTT/Restaurant-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FAVTTTTTTTTT/Restaurant-Project/issues"
+  },
+  "homepage": "https://github.com/FAVTTTTTTTTT/Restaurant-Project#readme",
+  "description": ""
 }
